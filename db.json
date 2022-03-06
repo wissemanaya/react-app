@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Going to Cinema ",
+      "day": "5 Feb 2020",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Finishing React Project",
+      "day": "5 Feb 2020",
+      "reminder": true
+    },
+    {
+      "text": "party time ",
+      "day": "26/feb/2022",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
